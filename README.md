@@ -42,6 +42,7 @@ The system allows authenticated users to **create, view, update, delete, and fil
 
 ### Project Structure
 
+```bash
 .
 ├── docker-compose.yml
 ├── php-backend/
@@ -57,6 +58,7 @@ The system allows authenticated users to **create, view, update, delete, and fil
 │ ├── index.html
 │ └── package.json
 └── README.md
+```
 
 ---
 
